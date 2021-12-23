@@ -1,3 +1,10 @@
+layout:page
+
+title: "About Me"
+
+permalink:/about/
+
+
 Hello, I am Nathaniel Pereyra, a senior Computer Science student at the University of Maryland, College Park. I am seeking an entry level computer science position for Summer or Fall 2022, so that I may enter the professional working world once I graduate next May. Throughout my academics, I have learned many different skills, from basic programming languages like Java, Python, and C, to more advanced topics like iOS app development, creating and using advanced data structures, and cybersecurity practices.
 
 This past summer, I interred with the Federal Aviation Administration as a Computer Science Gateways Intern. While there, I assisted with the development and testing of a financial dashboard for the Enterprise Services Directorate, which is a branch of the Program Management Organization, one of the groups that makes up the Air Traffic Organization line of buisiness in the FAA. This dashboard would aggregate all the various financial information for each of the various teams and programs within the directorate, and allow managers and team leaders to see real-time status updates regarding funding allocations, expenditures, and other financial status indicators.
